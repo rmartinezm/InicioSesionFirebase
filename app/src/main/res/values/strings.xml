@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InicioSesionFirebase</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="correo">Correo Electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="repite_password">Repite tu Contraseña</string>
+    <string name="btn_fb">Iniciar Sesión con Facebook</string>
+    <string name="crear_cuenta">Crear Cuenta</string>
+    <string name="cerrar_sesion">Cerrar Sesión Actual</string>
+    <string name="o">ó</string>
+    <string name="facebook_app_id">1395681233788135</string>
+
+    <string name="error_cancelado">Inicio de Sesión Cancelado</string>
+    <string name="error_error">Error al Iniciar Sesión</string>
+    <string name="inicio_sesion_correcto">Inicio de Sesión Éxitoso</string>
+</resources>
